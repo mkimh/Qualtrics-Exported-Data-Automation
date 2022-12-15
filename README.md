@@ -17,6 +17,6 @@
 ## Takeaways
 * The code will take seconds to prepare a set of data.
 *	The code needs minimal intervention including:
- *	Set data range for questions (when desired to set custom range to accommodate with different input data fields in every survey)
- * Input correct metadata
- * Review output
+  *	Set data range for questions (when desired to set custom range to accommodate with different input data fields in every survey)
+  * Input correct metadata
+  * Review output
